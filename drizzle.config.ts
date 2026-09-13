@@ -1,7 +1,7 @@
 import { defineConfig } from 'drizzle-kit';
 
 /**
- * Drizzle Kit configuration for migration generation.
+ * Drizzle Kit configuration for migration generation that run the configuration.
  * Run: npx drizzle-kit generate
  */
 export default defineConfig({
